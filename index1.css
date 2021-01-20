@@ -1,0 +1,542 @@
+html,body{
+height: 100%;
+  width:100%;
+  font-family: 'Alata', sans-serif;
+  margin:0;
+
+}
+.projects{
+  overflow-x: hidden;
+}
+ul{
+  padding-left: 0;
+}
+.projects h3{
+  text-align: center;
+  font-size: 65px!important;
+    font-family: 'Russo One', sans-serif;
+}
+
+.skill h3{
+  text-align: center;
+}
+.carousel{
+  margin-top:100px;
+}
+.project-content{
+  margin: 20px;
+ 
+  
+}
+
+#ProjectCarousel .carousel-item{
+ 
+  margin-bottom: 20px;
+}
+
+
+.second.carousel{
+  margin-top: 0px!important;
+}
+.project-content li{
+  font-size: 15px;
+}
+.project-content h1{
+  font-size: 30px;
+  margin: 20px;
+}
+.project-image img{
+   
+   max-width: 100%;
+   height: 400px;
+}
+.carousel-inner{
+  text-align: center;
+    width: 60%!important;
+    margin: 0 auto;
+    text-transform: capitalize;
+    font-family: 'Russo One', sans-serif;
+}
+.skill i{
+  font-size: 100px;
+  margin:10px auto;
+}
+.project-content ul{
+  margin-top: 20px;
+}
+.desc{
+  font-size: 15px;
+  margin: 15px;
+  margin-top: 30px;
+}
+.skill p{
+  margin: 0 auto!important;
+    text-align: center;
+    font-size: 25px!important;
+    font-family: 'Pirata One', cursive;
+    letter-spacing: 2px;
+}
+.fade-in{
+  opacity: 0;
+  transform: translateY(50px);
+  transition: opacity 1s ease-in,transform 1s ease-out;
+}
+.fade-in.appear{
+  opacity: 1;
+  transform: translateY(0px);
+}
+.row{
+margin-left: 0px!important;}
+
+
+ .what h3{
+  margin-bottom: 50px;
+}
+.two i{
+  color: black;
+  font-size: 25px;
+  margin-right: 10px;
+}
+.two h3{
+  font-weight: bolder;
+}
+.two p{
+  font-size: 20px;
+  margin-left: 20%;
+  text-align: left;
+  font-weight: 700;
+}
+.one{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+#card1 .one{
+height: 500px;
+  background: transparent;
+  color: white;
+  width: 50%;
+
+}
+.two h1{
+  color: black;
+  font-weight: 700;
+  font-family: 'Russo One', sans-serif;
+
+}
+.two ul{
+  list-style: none;
+
+}
+.two li h3{
+  text-align: left;
+  margin-bottom: 15px;
+}
+#card1{
+  background-image: linear-gradient(45deg, #FF1E56, #E853E6);;
+}
+#card1 .two{
+  width: 50%;
+  height: 500px;
+  background: transparent;
+}
+#card2{
+  background-image: linear-gradient(45deg, #FFC1FA, #E853E6
+
+    );;
+}
+#card3{
+  background-image: linear-gradient(35deg, #DA22FF, #9733EE);;
+}
+#card2 .one{
+height: 500px;
+  background: transparent;
+  color: white;
+  width: 50%;
+
+}
+
+#card2 .two{
+  width: 50%;
+  height: 500px;
+  background: transparent;
+}
+#whatimg{
+  margin: 20px 0;
+}
+.what{
+  text-align: center;
+  margin-bottom: 30px;
+}
+.what .card{
+  box-shadow:  0px 0px 5px 5px lightgrey;
+}
+#card3 .one{
+height: 500px;
+  background: transparent;
+  color: white;
+  width: 50%;
+
+}
+
+#card3 .two{
+  width: 50%;
+  height: 500px;
+  background: transparent;;
+}
+ .container{
+   margin: 0px!important;
+   width: 100%!important;
+ } */
+
+div.what h3{
+  font-size: 50px;
+  font-weight: bolder;
+}
+html{
+  overflow-x: hidden;
+}
+.something{
+  background:black;
+  height:100%;
+}
+.signature img{
+  z-index: 4;
+
+  position: relative;
+
+}
+
+ul{
+  display: flex;
+  justify-content: space-around;
+  align-items: flex-end;
+}
+nav{
+  display: flex;
+}
+.social{
+  display: flex;
+  flex-grow: 3;
+  justify-content: center;
+  color: white;
+  align-items: center;
+
+}
+.para li{
+  display: inline;
+  font-size: 100px;
+}
+nav li{
+  display: inline;
+  font-size: 25px;
+  margin: 0 10px;
+}
+
+nav p{
+  font-size: 30px;
+  font-family: 'Russo One', sans-serif;
+}
+img{
+  width:700px;
+  height:700px;
+
+
+}
+nav{
+  width: 100%;
+  position: absolute;
+  z-index: 5;
+  top: 0;
+  background-color: transparent;
+background: rgba(255, 255, 255, 0.1);
+  height: 100px;
+}
+.signature{
+  display:flex;
+  justify-content: space-between;
+  align-items: center;
+
+}
+.skills{
+  margin-top: 40px;
+  margin-left: 40px;
+
+}
+.skill span{
+  font-size: 40px;
+font-weight: bold;
+
+margin-left: 150px;
+}
+.skill{
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+.skill img{
+  height: 50px;
+  width: 200px;
+}
+.about{
+  background-color: #fffdf9;
+}
+.para{
+  margin-top:10%;
+  text-transform: capitalize;
+  color: black;
+  font-size: 25px;
+}
+.data h3{
+  font-family: 'Russo One', sans-serif;
+  color:white;
+  font-weight: 100;
+  font-size: 60px;
+  margin:0;
+}
+.data{
+  position: absolute;
+  top: 300px;
+  left: 0px;
+}
+.image-text img{
+  width: 300px;
+  margin-top: 20px;
+  height: 60px;
+
+}
+.potrait-image{
+  text-align: center;
+}
+.potrait-image img{
+  margin-top: 50px;
+  width: 300px;
+  height: 300px;
+}
+.image-text{
+    text-align: center;
+}
+.content p{
+  color: black;
+  text-align: center;
+  font-size: 30px;
+}
+#two p{
+  text-align: left;
+}
+#one p{
+  font-weight: bold;
+}
+.content{
+margin-top: 80px;
+}
+h1.skill-head{
+    font-family: 'Russo One', sans-serif !important;
+    font-size: 100px;
+  }
+.data p{
+  color: white;
+  font-size: 35px;
+  display: block;
+}
+.skills{
+  margin: 0;
+  padding: 0;
+  background: black;
+  color:white;
+}
+@media screen and (max-width:800px) {
+
+  .project-content h1{
+    font-size: 20px;
+  }
+  .carousel-inner{
+    width: 100%!important;
+  }
+  .carousel-inner h2{
+    font-size: 20px!important;
+  }
+  nav{
+    height: 60px;
+  }
+  nav p{
+    font-size: 20px;
+  }
+  .signature img{
+    height: 50px!important;
+    width: 50px!important;
+  }
+  .two p{
+    font-size: 15px;
+  }
+  .two h3{
+    font-size: 16px;
+  }
+  .card{
+
+    margin-bottom: 20px;
+  }
+  .two h1{
+    font-size: 18px;
+  }
+  .skills{
+    margin-top: 20px;
+    margin-left: 10px;
+
+  }
+  .skill span{
+    font-size: 20px;
+  font-weight: bold;
+
+
+  margin-left: 50px;
+  }
+  .skill p{
+    margin: 0;
+
+  }
+  .skill{
+
+    margin-bottom: 10px;
+  }
+   
+  .skill img{
+    height: 30px;
+    width: 100px;
+  }
+  .skill{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  }
+  .para{
+    font-size: 20px;
+    padding: 0 15px;
+  }
+  .content p{
+    color: black;
+    text-align: center;
+    font-size: 20px;
+  }
+  .something{
+    height: 90%;
+  }
+  #img{
+    width:500px;
+    height:500px;
+    left: 15%;
+    position: absolute;
+    z-index: 1;
+
+  }
+
+  .data{
+    position: absolute;
+    z-index: 2;
+    top: 300px;
+    left: 0px;
+  }
+
+}
+@media screen and (max-width:600px) {
+  .para li{
+  font-size: 50px;
+}
+
+.para img{
+  width: 50px!important;
+  height: 50px!important;
+}
+  #img{
+    width:400px;
+    height:400px;
+   left: 50%;
+    top: 30%!important;
+    
+    transform: translate(-50%, -50%);
+    position: absolute;
+    z-index: 1;
+
+  }
+  .signature img{
+    height: 50px;
+    width: 50px;
+  }
+  .data{
+    position: absolute;
+    z-index: 2;
+    top: 300px;
+    left: 0px;
+  }
+.data h3{
+  font-size: 25px;
+}
+.data p{
+  font-size: 20px;
+}
+.data{
+  top: 500px;
+}
+}
+
+@media screen and (max-width:400px){
+  .para li{
+  font-size: 50px;
+}
+#img{
+  width: 320px;
+  height: 400px;
+}
+.signature img{
+  height: 50px;
+  width: 50px;
+}
+.data{
+  top: 450px;
+}
+.content p{
+  font-size: 15px;
+}
+.data p{
+  font-size: 15px;
+}
+.something{
+  height: 95%;
+}
+
+}
+
+
+@media screen and (max-height:850px) {
+.something{
+  height: 85%;
+}
+.data{
+  height: 600px
+}
+}
+@media screen and (max-height:580px) {
+.something{
+  height: 95%;
+}
+.data{
+  height: 500px
+}
+}
+@media screen and (min-width:1000px) {
+.something{
+  height: 100%;
+}
+
+}
+@media screen and (min-height:800px) and (max-height:900px) {
+.something{
+  height: 90%;
+}
+#img{
+  top: 70px;
+}
+.data{
+  top: 600px;
+}
+}
